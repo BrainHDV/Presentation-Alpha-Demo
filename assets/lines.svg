@@ -1,0 +1,6 @@
+<svg width="792" height="49" viewBox="0 0 792 49" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M0 0.5H791.5" stroke="black"/>
+<path d="M0.5 1L0.5 49" stroke="black"/>
+<line x1="791.5" y1="1" x2="791.5" y2="49" stroke="black"/>
+<line x1="399.5" y1="1" x2="399.5" y2="49" stroke="black"/>
+</svg>
